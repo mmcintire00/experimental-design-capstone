@@ -12,7 +12,7 @@
 * Ho: There is no significant difference in the mean bid (USD) per lease block per company between 2014-2020.
 * Ha: There is a significant difference in the mean bid (USD) per lease block per company between 2014-2020
 
-### Data: The data is publicly available on the BOEM website. This dataset was pulled from the GOMSmart database, which organizes lease information into a .csv format. The dataset contains 1708 records and 17 variables. I've only imported 10 variables to be used for this analysis. There are no missing values.
+### Data: The data is publicly available on the BOEM website. The dataset contains 1708 records and 17 variables. I've only imported 10 variables to be used for this analysis. There are no missing values.
 
 ### Discussion and Conclusions:
 
